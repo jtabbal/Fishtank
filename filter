@@ -1,0 +1,2 @@
+usearch -fastq_filter ../out/stripped.fq -fastq_maxee 1.0 \
+ -fastaout ../out/filtered.fa -relabel Filt

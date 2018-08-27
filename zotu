@@ -1,0 +1,1 @@
+usearch -unoise3 ../out/uniques.fa -zotus ../out/zotus.fa -tabbedout unoise3.txt

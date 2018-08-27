@@ -1,0 +1,3 @@
+usearch -usearch_global ../out/stripped.fq -db ../out/zotus.fa \
+ -strand plus -id 0.97 -otutabout ../out/zotutable.txt
+

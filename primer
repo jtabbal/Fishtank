@@ -1,0 +1,2 @@
+usearch -fastx_truncate ../out/merge.fq -stripleft 31 -stripright 26 -fastqout ../out/stripped.fq
+

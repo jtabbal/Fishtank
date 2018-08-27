@@ -1,0 +1,4 @@
+usearch -fastq_mergepairs ../fq/*_R1*.fq -relabel @ \
+ -fastq_maxdiffs 5  -fastq_pctid 5 \
+ -fastq_minmergelen 369 -fastq_maxmergelen 372 \
+ -fastqout ../out/merge.fq
